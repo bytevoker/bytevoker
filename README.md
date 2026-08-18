@@ -40,16 +40,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,vscode,javascript,nodejs,c,cpp,mysql,php,git,github,bash,linux,ubuntu,python,flask" />
 </p>
-
----
-
-## 🎯 2026 Goals
-
-* Master Flask & Backend Development
-* Build Full-Stack Applications
-* Contribute More to Open Source
-* Improve DSA & Problem Solving
-* Learn System Design
+<p>
+  <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+</p>
 
 ---
 
