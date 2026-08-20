@@ -14,17 +14,6 @@
 
 ---
 
-## 🚀 About Me
-
-* 🔭 Currently building projects and exploring new ideas
-* 🌱 Learning **Flask, Backend Development, and System Design**
-* 👯 Looking to collaborate on interesting open-source projects
-* 💡 Passionate about solving problems and understanding how things work
-* 💬 Ask me about **Python, Flask, Linux, and Programming**
-* ⚡ Fun Fact: I enjoy breaking things apart to understand them better
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
